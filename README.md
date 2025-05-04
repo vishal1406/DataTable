@@ -61,6 +61,7 @@ This will start the application on http://localhost:3000.
 ## 📸 Screenshots
 
 Here’s a preview of the application in action:
+
 <img width="1470" alt="1  Listing Of Post" src="https://github.com/user-attachments/assets/8a35fb3f-bae1-46e7-9c95-7de5ed1e2fc9" />
 
 <img width="1470" alt="2  Create Post" src="https://github.com/user-attachments/assets/cdb60670-31fb-4812-9a3a-9e85d297b314" />
@@ -68,6 +69,7 @@ Here’s a preview of the application in action:
 <img width="1470" alt="3  Update Post" src="https://github.com/user-attachments/assets/10c1ffd3-4cc4-4f9f-9339-887f0a96bddf" />
 
 <img width="1470" alt="4  Delete Post" src="https://github.com/user-attachments/assets/e4f99281-6874-4587-a04b-13436ed176c2" />
+
 
 
 📝 Notes
