@@ -1,7 +1,7 @@
 {
   "socialPosts": [
     {
-      "id": 1,
+      "id": "1",
       "brandName": "UrbanBeat",
       "platform": "YouTube",
       "contentCategory": "Meme",
@@ -10,10 +10,11 @@
       "shares": 150,
       "reach": 36725,
       "engagementRate": 8.83,
-      "postDate": "2025-03-11"
+      "postDate": "2025-03-11",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 2,
+      "id": "2",
       "brandName": "HealthWise",
       "platform": "Facebook",
       "contentCategory": "Meme",
@@ -22,10 +23,11 @@
       "shares": 38,
       "reach": 12798,
       "engagementRate": 8.59,
-      "postDate": "2025-03-20"
+      "postDate": "2025-03-20",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 3,
+      "id": "3",
       "brandName": "FitFlex",
       "platform": "Instagram",
       "contentCategory": "Testimonial",
@@ -34,10 +36,11 @@
       "shares": 13,
       "reach": 25912,
       "engagementRate": 7.78,
-      "postDate": "2025-04-03"
+      "postDate": "2025-04-03",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 4,
+      "id": "4",
       "brandName": "GlowUp",
       "platform": "Instagram",
       "contentCategory": "Product",
@@ -46,10 +49,11 @@
       "shares": 15,
       "reach": 25837,
       "engagementRate": 1.78,
-      "postDate": "2025-04-28"
+      "postDate": "2025-04-28",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 5,
+      "id": "5",
       "brandName": "GlowUp",
       "platform": "YouTube",
       "contentCategory": "Announcement",
@@ -58,10 +62,11 @@
       "shares": 94,
       "reach": 26321,
       "engagementRate": 7.75,
-      "postDate": "2025-04-05"
+      "postDate": "2025-04-05",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 6,
+      "id": "6",
       "brandName": "GadgetX",
       "platform": "LinkedIn",
       "contentCategory": "Announcement",
@@ -70,10 +75,11 @@
       "shares": 135,
       "reach": 5927,
       "engagementRate": 1.78,
-      "postDate": "2025-03-25"
+      "postDate": "2025-03-25",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 7,
+      "id": "7",
       "brandName": "NatureVibe",
       "platform": "YouTube",
       "contentCategory": "Product",
@@ -82,10 +88,11 @@
       "shares": 59,
       "reach": 32143,
       "engagementRate": 9.21,
-      "postDate": "2025-03-14"
+      "postDate": "2025-03-14",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 8,
+      "id": "8",
       "brandName": "FitFlex",
       "platform": "Instagram",
       "contentCategory": "Product",
@@ -94,10 +101,11 @@
       "shares": 140,
       "reach": 30873,
       "engagementRate": 5.04,
-      "postDate": "2025-03-22"
+      "postDate": "2025-03-22",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 9,
+      "id": "9",
       "brandName": "CafeBrew",
       "platform": "Instagram",
       "contentCategory": "BehindTheScenes",
@@ -106,10 +114,11 @@
       "shares": 39,
       "reach": 4283,
       "engagementRate": 5.68,
-      "postDate": "2025-04-18"
+      "postDate": "2025-04-18",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 10,
+      "id": "10",
       "brandName": "GlowUp",
       "platform": "LinkedIn",
       "contentCategory": "Testimonial",
@@ -118,10 +127,11 @@
       "shares": 100,
       "reach": 36027,
       "engagementRate": 2.98,
-      "postDate": "2025-03-19"
+      "postDate": "2025-03-19",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 11,
+      "id": "11",
       "brandName": "TechPulse",
       "platform": "YouTube",
       "contentCategory": "Product",
@@ -130,10 +140,11 @@
       "shares": 126,
       "reach": 5565,
       "engagementRate": 1.03,
-      "postDate": "2025-04-23"
+      "postDate": "2025-04-23",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 12,
+      "id": "12",
       "brandName": "TechPulse",
       "platform": "LinkedIn",
       "contentCategory": "Announcement",
@@ -142,10 +153,11 @@
       "shares": 5,
       "reach": 24307,
       "engagementRate": 4.06,
-      "postDate": "2025-04-17"
+      "postDate": "2025-04-17",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 13,
+      "id": "13",
       "brandName": "HealthWise",
       "platform": "LinkedIn",
       "contentCategory": "Product",
@@ -154,10 +166,11 @@
       "shares": 27,
       "reach": 1945,
       "engagementRate": 5.01,
-      "postDate": "2025-04-09"
+      "postDate": "2025-04-09",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 14,
+      "id": "14",
       "brandName": "NatureVibe",
       "platform": "Facebook",
       "contentCategory": "Testimonial",
@@ -166,10 +179,11 @@
       "shares": 99,
       "reach": 29480,
       "engagementRate": 1.58,
-      "postDate": "2025-04-24"
+      "postDate": "2025-04-24",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 15,
+      "id": "15",
       "brandName": "FitFlex",
       "platform": "Facebook",
       "contentCategory": "Announcement",
@@ -178,10 +192,11 @@
       "shares": 87,
       "reach": 27575,
       "engagementRate": 9.53,
-      "postDate": "2025-03-05"
+      "postDate": "2025-03-05",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 16,
+      "id": "16",
       "brandName": "TechPulse",
       "platform": "LinkedIn",
       "contentCategory": "Testimonial",
@@ -190,10 +205,11 @@
       "shares": 131,
       "reach": 48765,
       "engagementRate": 3.39,
-      "postDate": "2025-03-16"
+      "postDate": "2025-03-16",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 17,
+      "id": "17",
       "brandName": "CafeBrew",
       "platform": "Facebook",
       "contentCategory": "Announcement",
@@ -202,10 +218,11 @@
       "shares": 38,
       "reach": 49853,
       "engagementRate": 7.67,
-      "postDate": "2025-04-02"
+      "postDate": "2025-04-02",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 18,
+      "id": "18",
       "brandName": "CafeBrew",
       "platform": "Instagram",
       "contentCategory": "Product",
@@ -214,10 +231,11 @@
       "shares": 82,
       "reach": 20131,
       "engagementRate": 8.36,
-      "postDate": "2025-04-21"
+      "postDate": "2025-04-21",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 19,
+      "id": "19",
       "brandName": "GlowUp",
       "platform": "Instagram",
       "contentCategory": "Meme",
@@ -226,10 +244,11 @@
       "shares": 125,
       "reach": 48374,
       "engagementRate": 7.53,
-      "postDate": "2025-03-16"
+      "postDate": "2025-03-16",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 20,
+      "id": "20",
       "brandName": "CafeBrew",
       "platform": "LinkedIn",
       "contentCategory": "BehindTheScenes",
@@ -238,10 +257,11 @@
       "shares": 143,
       "reach": 17444,
       "engagementRate": 8.25,
-      "postDate": "2025-03-14"
+      "postDate": "2025-03-14",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 21,
+      "id": "21",
       "brandName": "GadgetX",
       "platform": "Facebook",
       "contentCategory": "Testimonial",
@@ -250,10 +270,11 @@
       "shares": 140,
       "reach": 12553,
       "engagementRate": 2.23,
-      "postDate": "2025-04-18"
+      "postDate": "2025-04-18",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 22,
+      "id": "22",
       "brandName": "HealthWise",
       "platform": "Twitter",
       "contentCategory": "Product",
@@ -262,10 +283,11 @@
       "shares": 89,
       "reach": 39268,
       "engagementRate": 2.19,
-      "postDate": "2025-04-28"
+      "postDate": "2025-04-28",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 23,
+      "id": "23",
       "brandName": "CafeBrew",
       "platform": "LinkedIn",
       "contentCategory": "Testimonial",
@@ -274,10 +296,11 @@
       "shares": 107,
       "reach": 33410,
       "engagementRate": 4.05,
-      "postDate": "2025-04-01"
+      "postDate": "2025-04-01",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 24,
+      "id": "24",
       "brandName": "FitFlex",
       "platform": "Instagram",
       "contentCategory": "Announcement",
@@ -286,10 +309,11 @@
       "shares": 145,
       "reach": 11096,
       "engagementRate": 1.53,
-      "postDate": "2025-03-07"
+      "postDate": "2025-03-07",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 25,
+      "id": "25",
       "brandName": "FitFlex",
       "platform": "Twitter",
       "contentCategory": "Announcement",
@@ -298,10 +322,11 @@
       "shares": 68,
       "reach": 18042,
       "engagementRate": 4.7,
-      "postDate": "2025-03-23"
+      "postDate": "2025-03-23",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 26,
+      "id": "26",
       "brandName": "GlowUp",
       "platform": "Twitter",
       "contentCategory": "Announcement",
@@ -310,10 +335,11 @@
       "shares": 97,
       "reach": 9639,
       "engagementRate": 11.68,
-      "postDate": "2025-03-11"
+      "postDate": "2025-03-11",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 27,
+      "id": "27",
       "brandName": "HealthWise",
       "platform": "Facebook",
       "contentCategory": "Product",
@@ -322,10 +348,11 @@
       "shares": 85,
       "reach": 49980,
       "engagementRate": 11.04,
-      "postDate": "2025-03-12"
+      "postDate": "2025-03-12",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 28,
+      "id": "28",
       "brandName": "GadgetX",
       "platform": "Facebook",
       "contentCategory": "Testimonial",
@@ -334,10 +361,11 @@
       "shares": 43,
       "reach": 11750,
       "engagementRate": 5.18,
-      "postDate": "2025-03-26"
+      "postDate": "2025-03-26",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 29,
+      "id": "29",
       "brandName": "NatureVibe",
       "platform": "LinkedIn",
       "contentCategory": "Testimonial",
@@ -346,10 +374,11 @@
       "shares": 124,
       "reach": 38087,
       "engagementRate": 2.1,
-      "postDate": "2025-03-06"
+      "postDate": "2025-03-06",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 30,
+      "id": "30",
       "brandName": "NatureVibe",
       "platform": "Instagram",
       "contentCategory": "Testimonial",
@@ -358,10 +387,11 @@
       "shares": 21,
       "reach": 21717,
       "engagementRate": 9.27,
-      "postDate": "2025-04-20"
+      "postDate": "2025-04-20",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 31,
+      "id": "31",
       "brandName": "GadgetX",
       "platform": "Facebook",
       "contentCategory": "BehindTheScenes",
@@ -370,10 +400,11 @@
       "shares": 83,
       "reach": 40204,
       "engagementRate": 8.67,
-      "postDate": "2025-03-04"
+      "postDate": "2025-03-04",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 32,
+      "id": "32",
       "brandName": "GlowUp",
       "platform": "YouTube",
       "contentCategory": "Announcement",
@@ -382,10 +413,11 @@
       "shares": 136,
       "reach": 17206,
       "engagementRate": 7.25,
-      "postDate": "2025-04-25"
+      "postDate": "2025-04-25",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 33,
+      "id": "33",
       "brandName": "UrbanBeat",
       "platform": "YouTube",
       "contentCategory": "Testimonial",
@@ -394,10 +426,11 @@
       "shares": 98,
       "reach": 39339,
       "engagementRate": 3.82,
-      "postDate": "2025-03-11"
+      "postDate": "2025-03-11",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 34,
+      "id": "34",
       "brandName": "UrbanBeat",
       "platform": "LinkedIn",
       "contentCategory": "BehindTheScenes",
@@ -406,10 +439,11 @@
       "shares": 128,
       "reach": 18456,
       "engagementRate": 5.93,
-      "postDate": "2025-03-16"
+      "postDate": "2025-03-16",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 35,
+      "id": "35",
       "brandName": "TechPulse",
       "platform": "Facebook",
       "contentCategory": "Event",
@@ -418,10 +452,11 @@
       "shares": 82,
       "reach": 3857,
       "engagementRate": 10.76,
-      "postDate": "2025-03-08"
+      "postDate": "2025-03-08",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 36,
+      "id": "36",
       "brandName": "UrbanBeat",
       "platform": "Instagram",
       "contentCategory": "Testimonial",
@@ -430,10 +465,11 @@
       "shares": 119,
       "reach": 11698,
       "engagementRate": 1.18,
-      "postDate": "2025-04-26"
+      "postDate": "2025-04-26",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 37,
+      "id": "37",
       "brandName": "UrbanBeat",
       "platform": "YouTube",
       "contentCategory": "Event",
@@ -442,10 +478,11 @@
       "shares": 106,
       "reach": 14388,
       "engagementRate": 1.86,
-      "postDate": "2025-04-07"
+      "postDate": "2025-04-07",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 38,
+      "id": "38",
       "brandName": "FitFlex",
       "platform": "LinkedIn",
       "contentCategory": "Event",
@@ -454,10 +491,11 @@
       "shares": 105,
       "reach": 16824,
       "engagementRate": 4.98,
-      "postDate": "2025-04-01"
+      "postDate": "2025-04-01",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 39,
+      "id": "39",
       "brandName": "NatureVibe",
       "platform": "LinkedIn",
       "contentCategory": "BehindTheScenes",
@@ -466,10 +504,11 @@
       "shares": 100,
       "reach": 4668,
       "engagementRate": 4.27,
-      "postDate": "2025-05-01"
+      "postDate": "2025-05-01",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 40,
+      "id": "40",
       "brandName": "GadgetX",
       "platform": "Instagram",
       "contentCategory": "Testimonial",
@@ -478,10 +517,11 @@
       "shares": 108,
       "reach": 18913,
       "engagementRate": 6.39,
-      "postDate": "2025-05-03"
+      "postDate": "2025-05-03",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 41,
+      "id": "41",
       "brandName": "GlowUp",
       "platform": "YouTube",
       "contentCategory": "Product",
@@ -490,10 +530,11 @@
       "shares": 56,
       "reach": 2468,
       "engagementRate": 8.74,
-      "postDate": "2025-04-30"
+      "postDate": "2025-04-30",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 42,
+      "id": "42",
       "brandName": "HealthWise",
       "platform": "Instagram",
       "contentCategory": "Event",
@@ -502,10 +543,11 @@
       "shares": 93,
       "reach": 21912,
       "engagementRate": 6.76,
-      "postDate": "2025-04-19"
+      "postDate": "2025-04-19",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 43,
+      "id": "43",
       "brandName": "TechPulse",
       "platform": "Instagram",
       "contentCategory": "BehindTheScenes",
@@ -514,10 +556,11 @@
       "shares": 26,
       "reach": 27603,
       "engagementRate": 9.13,
-      "postDate": "2025-03-20"
+      "postDate": "2025-03-20",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 44,
+      "id": "44",
       "brandName": "HealthWise",
       "platform": "YouTube",
       "contentCategory": "Product",
@@ -526,10 +569,11 @@
       "shares": 96,
       "reach": 46029,
       "engagementRate": 1.77,
-      "postDate": "2025-03-06"
+      "postDate": "2025-03-06",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 45,
+      "id": "45",
       "brandName": "CafeBrew",
       "platform": "Twitter",
       "postType": "Text",
@@ -539,10 +583,11 @@
       "shares": 124,
       "reach": 18846,
       "engagementRate": 11.45,
-      "postDate": "2025-04-03"
+      "postDate": "2025-04-03",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 46,
+      "id": "46",
       "brandName": "TechPulse",
       "platform": "Instagram",
       "contentCategory": "Announcement",
@@ -551,10 +596,11 @@
       "shares": 145,
       "reach": 20668,
       "engagementRate": 10.16,
-      "postDate": "2025-03-27"
+      "postDate": "2025-03-27",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 47,
+      "id": "47",
       "brandName": "CafeBrew",
       "platform": "YouTube",
       "contentCategory": "Product",
@@ -563,10 +609,11 @@
       "shares": 101,
       "reach": 35826,
       "engagementRate": 9.22,
-      "postDate": "2025-04-13"
+      "postDate": "2025-04-13",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 48,
+      "id": "48",
       "brandName": "GlowUp",
       "platform": "Instagram",
       "contentCategory": "Product",
@@ -575,10 +622,11 @@
       "shares": 134,
       "reach": 32104,
       "engagementRate": 7.18,
-      "postDate": "2025-03-04"
+      "postDate": "2025-03-04",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 49,
+      "id": "49",
       "brandName": "TechPulse",
       "platform": "Instagram",
       "contentCategory": "Announcement",
@@ -587,10 +635,11 @@
       "shares": 32,
       "reach": 9667,
       "engagementRate": 3.78,
-      "postDate": "2025-04-16"
+      "postDate": "2025-04-16",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     },
     {
-      "id": 50,
+      "id": "50",
       "brandName": "NatureVibe",
       "platform": "LinkedIn",
       "contentCategory": "Event",
@@ -599,7 +648,8 @@
       "shares": 123,
       "reach": 37290,
       "engagementRate": 2.03,
-      "postDate": "2025-04-05"
+      "postDate": "2025-04-05",
+      "postDetail": "A humorous meme video poking fun at everyday office struggles, resonating well with young professionals."
     }
   ]
 }
