@@ -19,8 +19,8 @@ const Table = <TData,>({ data, columns, onSort, sort, order }: TableProps<TData>
   });
 
   return (
-    <div className="border rounded-lg overflow-hidden mb-6">
-      <div className="overflow-x-auto">
+    <div className="border rounded-lg overflow-hidden mb-2 h-full">
+      <div className="overflow-x-auto max-h-[70vh]">
         <table className="min-w-full table-auto border-collapse">
           <thead className="bg-gray-50 sticky top-0 z-10">
             {table.getHeaderGroups().map(headerGroup => (

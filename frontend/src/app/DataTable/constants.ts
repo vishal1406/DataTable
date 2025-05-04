@@ -16,17 +16,17 @@ export const CONTENT_CATEGORY_LIST = [
 ];
 
 export const POST_COLUMNS = [
-    { header: "Brand Name", accessorKey: "brandName" },
-    { header: "Platform", accessorKey: "platform" },
-    { header: "Content Category", accessorKey: "contentCategory" },
-    { header: "Likes", accessorKey: "likes" },
-    { header: "Comments", accessorKey: "comments" },
-    { header: "Shares", accessorKey: "shares" },
-    { header: "Reach", accessorKey: "reach" },
-    { header: "Engagement Rate", accessorKey: "engagementRate" },
-    { header: "Post Date", accessorKey: "postDate" },
-    { header: "Actions", accessorKey: "actions" },
-  ]
+  { header: "Brand Name", accessorKey: "brandName" },
+  { header: "Platform", accessorKey: "platform" },
+  { header: "Content Category", accessorKey: "contentCategory" },
+  { header: "Likes", accessorKey: "likes" },
+  { header: "Comments", accessorKey: "comments" },
+  { header: "Shares", accessorKey: "shares" },
+  { header: "Reach", accessorKey: "reach" },
+  { header: "Engagement Rate", accessorKey: "engagementRate" },
+  { header: "Post Date", accessorKey: "postDate" },
+  { header: "Actions", accessorKey: "actions" },
+];
 
 export const DEFAULT_POST_DATA = {
   brandName: "",
@@ -43,6 +43,12 @@ export const DEFAULT_POST_DATA = {
 };
 
 export const ORDER_MAPPING = {
-    DESCENDING: 'desc',
-    AESCENDING: 'asc'
-}
+  DESCENDING: "desc",
+  AESCENDING: "asc",
+};
+
+export const DIALOG_TYPE_MAPPING = {
+  CREATE: "CREATE",
+  UPDATE: "UPDATE",
+  DELETE: "DELETE",
+};

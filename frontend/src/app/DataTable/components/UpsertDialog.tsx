@@ -12,11 +12,13 @@ import { SingleSelectDropdown } from "@/components/ui/single-select-dropdown";
 import { Textarea } from "@/components/ui/textarea";
 import { PLATFORM_LIST, CONTENT_CATEGORY_LIST } from "../constants";
 import { IUpsertPost } from "../interface";
+import { checkIsUpsertButtonDisabled } from "../helper";
 
 const UpsertDialog = ({
   open = false,
   postData,
   handleChange,
+  handleUpsertPost,
   handleCloseDialog,
 }: IUpsertPost) => {
   return (
@@ -34,6 +36,7 @@ const UpsertDialog = ({
               id="name"
               value={postData.brandName}
               className="col-span-3"
+              placeholder="Enter brand name"
               onChange={(event) => handleChange("brandName", event.target.value)}
             />
           </div>
@@ -47,7 +50,7 @@ const UpsertDialog = ({
               onChange={(val) => handleChange("platform", val)}
               placeholder="Select Platform type"
               required
-              className="col-span-3"
+              className="col-span-3 justify-start"
             />
           </div>
           <div className="grid grid-cols-4 items-center gap-4">
@@ -58,9 +61,9 @@ const UpsertDialog = ({
               options={CONTENT_CATEGORY_LIST}
               value={postData?.contentCategory}
               onChange={(val) => handleChange("contentCategory", val)}
-              placeholder="Select Platform type"
+              placeholder="Select Content type"
               required
-              className="col-span-3"
+              className="col-span-3 justify-start"
             />
           </div>
           <div className="grid grid-cols-4 items-center gap-4">
@@ -69,14 +72,14 @@ const UpsertDialog = ({
             </Label>
             <Textarea
               className="col-span-3"
-              placeholder="Type here."
+              placeholder="Enter post detail"
               value={postData.postDetail}
               onChange={(event) => handleChange("postDetail", event.target.value)}
             />
           </div>
         </div>
         <DialogFooter>
-          <Button type="submit">Save changes</Button>
+          <Button disabled={checkIsUpsertButtonDisabled(postData)} onClick={handleUpsertPost}>{postData.id ? "Update" : "Create"}</Button>
         </DialogFooter>
       </DialogContent>
     </Dialog>

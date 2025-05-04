@@ -11,13 +11,15 @@ export interface IPostData {
   engagementRate: number;
   postDate: string;
   postDetail: string;
+  updatedAt?: string;
 }
 
 export interface IUpsertPost {
-    open: boolean;
-    postData: IPostData;
-    handleChange:  (key: |  string, value: string) => void;
-    handleCloseDialog: () => void;
+  open: boolean;
+  postData: IPostData;
+  handleChange: (key: string, value: string) => void;
+  handleUpsertPost: () => void;
+  handleCloseDialog: () => void;
 }
 
 export interface IDeletePost {

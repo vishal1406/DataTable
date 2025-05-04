@@ -1,3 +1,4 @@
-import UpsertDialog from "./UpsertDialog";
+import UpsertPostDialog from "./UpsertDialog";
+import DeletePostDialog from "./DeletePost";
 
-export { UpsertDialog }
+export {DeletePostDialog, UpsertPostDialog }
