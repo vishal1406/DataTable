@@ -2,7 +2,6 @@
 
 import React, { useEffect, useState, Fragment } from "react";
 import Table from "@/components/table/table";
-import { ColumnDef } from "@tanstack/react-table";
 import { DeletePostDialog, UpsertPostDialog } from "../components";
 import { IPostData } from "../interface";
 import { useApi } from "@/lib/api";
@@ -30,11 +29,11 @@ const DataTable = () => {
     loading: postLoading,
     refetch: fetchPostHandler,
   } = useApi(fetchPostData);
-  const { loading: createPostLoading, refetch: createPostHandler } =
+  const { refetch: createPostHandler } =
     useApi(createPost);
-  const { loading: updatePostLoading, refetch: updatePostHandler } =
+  const { refetch: updatePostHandler } =
     useApi(updatePost);
-  const { loading: deletePostLoading, refetch: deletePostHandler } =
+  const { refetch: deletePostHandler } =
     useApi(deletePost);
 
   useEffect(() => {
