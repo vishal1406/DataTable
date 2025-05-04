@@ -34,6 +34,7 @@ It demonstrates **CRUD operations**, **server-side pagination**, **sorting**, **
 ```bash
 git clone https://github.com/vishal1406/DataTable.git
 cd DataTable
+```
 
 ### 2️⃣ Set Up Backend
 
@@ -43,6 +44,7 @@ Navigate to the backend folder and start the mock API server:
 cd backend
 npm install json-server
 npx json-server --watch db.json --port 3001
+```
 
 ### 3️⃣ Set Up Frontend
 
@@ -52,6 +54,7 @@ Navigate to the frontend folder, install dependencies, and run the frontend appl
 cd frontend
 npm install
 npm run dev
+```
 
 This will start the application on http://localhost:3000.
 
